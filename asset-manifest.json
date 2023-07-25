@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArtsiomChulc/HW-new-auto/static/css/main.073c9b0a.css",
-    "main.js": "/ArtsiomChulc/HW-new-auto/static/js/main.0782d0df.js",
-    "static/js/787.177e23c2.chunk.js": "/ArtsiomChulc/HW-new-auto/static/js/787.177e23c2.chunk.js",
-    "index.html": "/ArtsiomChulc/HW-new-auto/index.html",
-    "main.073c9b0a.css.map": "/ArtsiomChulc/HW-new-auto/static/css/main.073c9b0a.css.map",
-    "main.0782d0df.js.map": "/ArtsiomChulc/HW-new-auto/static/js/main.0782d0df.js.map",
-    "787.177e23c2.chunk.js.map": "/ArtsiomChulc/HW-new-auto/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/HW-new-auto/static/css/main.073c9b0a.css",
+    "main.js": "/HW-new-auto/static/js/main.8e3abe44.js",
+    "static/js/787.177e23c2.chunk.js": "/HW-new-auto/static/js/787.177e23c2.chunk.js",
+    "index.html": "/HW-new-auto/index.html",
+    "main.073c9b0a.css.map": "/HW-new-auto/static/css/main.073c9b0a.css.map",
+    "main.8e3abe44.js.map": "/HW-new-auto/static/js/main.8e3abe44.js.map",
+    "787.177e23c2.chunk.js.map": "/HW-new-auto/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0782d0df.js"
+    "static/js/main.8e3abe44.js"
   ]
 }
